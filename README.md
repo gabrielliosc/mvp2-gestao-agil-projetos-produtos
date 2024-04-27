@@ -28,7 +28,7 @@ Equipe hipotética:
 
 <h2>Imagens dos Protótipos de Interface (Wireframes)</h2>
 
-<p>https://www.figma.com/file/9oNVtfYLqR0C5TRjI1YvtH/MVP---Sprint-2?type=design&node-id=0%3A1&mode=design&t=E1fFEbEM26vWXTMT-1</p>
+<p>https://www.figma.com/proto/9oNVtfYLqR0C5TRjI1YvtH/MVP-Sprint-2?type=design&node-id=0-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=10%3A70</p>
 
 <h2>Vídeo de apresentação</h2>
 
